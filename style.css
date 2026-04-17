@@ -1,0 +1,106 @@
+body {
+    background-color: black;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+}
+
+header h2 {
+    color: white;
+}
+
+header a {
+    color: white;
+    border: 3px solid;
+    border-radius: 100px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.Категории {
+    display: flex;
+    justify-content: space-between;
+}
+
+main h1 {
+    color: white;
+    text-align: center;
+}
+
+main h2 {
+    color: white;
+}
+
+.Клав {
+    width: 350px;
+}
+
+.Клави {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Центер {
+    text-align: center;
+}
+
+.Ш {
+    float: left;
+    width: 240px;
+    margin-left: 31px;
+    margin-top: -20px;
+    margin-right: 31px;
+    margin-bottom: -20px;
+}
+
+.IMB {
+    margin-top: 150px;
+}
+
+.IMB1 {
+    float: right;
+    margin-top: 100px;
+    width: 400px;
+}
+
+.IMB2 {
+    float: left;
+    margin-top: 75px;
+    width: 301px;
+}
+
+.IMB3 {
+    margin-top: 150px;
+    margin-left: 205px;
+}
+
+.IMB4 {
+    margin-top: 100px;
+    width: 350px;
+    float: right;
+}
+
+.IMB5 {
+    margin-top: 150px;
+}
+
+.IMB6 {
+    text-align: right;
+    margin-top: 125px;
+}
+
+.IMB7 {
+    width: 400px;
+    margin-top: 75px;
+    float: left;
+}
+
+.IMB8 {
+    text-align: center;
+}
+
+.w {
+    margin-top: 35px;
+}
